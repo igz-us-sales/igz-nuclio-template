@@ -1,1 +1,1 @@
-# igz-nuclio-template
+# Iguazio Nuclio Serverless Function Template
